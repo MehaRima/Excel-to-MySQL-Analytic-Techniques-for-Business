@@ -8,7 +8,7 @@ The Capstone Project focuses on optimizing revenues from residential property, a
 
 28 weeks - 195 hours
 
-Certificate: https://www.coursera.org/account/accomplishments/specialization/NN562XMZJSMQ
+Certificate:
 
 
 
@@ -25,7 +25,7 @@ Finally, you will be able to use a checklist provided in the course to score any
 
 4 weeks, 3-5 hours per week
 
-Certificate: https://www.coursera.org/account/accomplishments/verify/T46N8GSEBF6H
+Certificate: 
 
 
 
@@ -52,7 +52,7 @@ This course requires some mathematical background: you should already know how t
 
 6 weeks, 3 - 5 hours per week
 
-Certificate: https://www.coursera.org/account/accomplishments/verify/JTKVQEXGZRGL
+Certificate:
 
 
 
@@ -67,7 +67,7 @@ In this course you will learn how to become a master at communicating business-r
 
 5 weeks, 6-8 hours per week
 
-Certificate: https://www.coursera.org/account/accomplishments/verify/HKDTQGCLCR5W
+Certificate:
 
 
 
@@ -82,7 +82,7 @@ By the end of this course, you will have a clear understanding of how relational
 
 5 semanas, 3-5 horas por semana
 
-Certificate: https://www.coursera.org/account/accomplishments/verify/YB8SD4VZPLLL
+Certificate: 
 
 
 
@@ -99,4 +99,4 @@ Airbnb, our Capstone’s official Sponsor, provided input on the project design.
 
 8 weeks of study, 8-10 hours/week
 
-Certificate: https://www.coursera.org/account/accomplishments/verify/X4YRJSZRSKPT
+Certificate: 
